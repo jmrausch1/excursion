@@ -1,5 +1,6 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 body {
@@ -7,5 +8,12 @@ body {
 }
 
 .site-header {
-    color: white    
+    color: white;
+    font-weight: normal;  
+    font-size: 50px;  
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
 }
